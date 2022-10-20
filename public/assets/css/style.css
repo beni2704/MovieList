@@ -1,0 +1,27 @@
+.body {
+    background-color: black;
+    
+    min-height: 100vh; 
+    margin: 0; 
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.bg-blackdark {
+    background-color: #1F201F !important; 
+}
+
+.logo-1 {
+    width: 150px;
+    height: 40px;
+}
+
+.logo-2 {
+    width: 100px;
+    height: 25px;
+}
+
+.logo-3 {
+    width: 70px;
+    height: 13px;
+}
